@@ -12,8 +12,7 @@
 	
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
-
+[![<mazaroua>'s 42 stats](https://badge.mediaplus.ma/<theme>/<mazaroua>)]
 <br>
 
 - Student At 1337 | 42Network
