@@ -16,10 +16,9 @@
 
 <br>
 
+- Student At 1337 | 42Network
 - A passionate Self-taught Front-end developer
-- Playing CTF's at spare time
-- Currently learning Web Development by Self
-- Personal website [link](https://www.0xabdulkhalid.ml)
+- Currently learning Web Development
 
 <br><br>
 
