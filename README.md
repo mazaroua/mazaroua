@@ -15,7 +15,6 @@
 <img align="right" src="https://badge.mediaplus.ma/darkblue/mazaroua" alt="mazaroua's 42 stats" /><br>
 
 - Student At 1337 | 42Network
-- A passionate Self-taught Front-end developer
 - Currently learning Web Development
 
 <br><br>
